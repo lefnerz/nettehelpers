@@ -1,0 +1,16 @@
+{
+    "name": "lefnerz/nettehelpers",
+    "description": "Rutine methods, scripts or everything what could faster my work in Nette",
+    "type": "library",
+    "license": "GNU v3.0",
+    "authors": [
+        {
+            "name": "Zdenek Lefner",
+            "email": "zdenek@lefner.eu"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
